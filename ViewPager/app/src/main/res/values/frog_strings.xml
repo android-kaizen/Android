@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Course titles and descriptions -->
+  <string name="dendrobates_auratus_genus">Dendrobates</string>
+  <string name="dendrobates_auratus_scientific_name">Dendrobates Auratus</string>
+  <string name="dendrobates_auratus_description">The mint poison frog is in all ways an average poison dart frog. Males reach about 0.75 inch long; females are slightly larger, up to an inch long or bigger.
+      As the common name "mint poison dart frog" suggests, the green-and-black poison frog typically has mint-green coloration; however, they can also be forest, lime, emerald green, turquoise, pale yellow, or even cobalt blue.
+      Many also have splotches of dark colors, ranging from wood brown to black. The green-and-black poison frog is one of the most variable of all poison frogs in appearance. Some have black or brown splotches, others are dappled, or have "splashes" of black, like Oophaga sylvaticus.
+
+      D. auratus is semiarboreal, hunting, courting, and sleeping in the trees, but as it is a small frog, it cannot jump far enough to span the distances between trees, so it returns to the ground to travel. To assist in climbing, the mint poison dart frog has small, sucker-like discs on the ends of its toes,
+      which create a slight suction as the frogs climb, making their grip mildly adhesive (although some individuals do have difficulty climbing).
+  </string>
+
+  <string name="dendrobates_tinctorius_azureus_genus">Dendrobates</string>
+  <string name="dendrobates_tinctorius_azureus_scientific_name">Dendrobates Tinctorius Azureus</string>
+  <string name="dendrobates_tinctorius_azureus_description">D. tinctorius "azureus" is a medium-sized frog that weighs about 8 grams and grows to 3.0-4.5 cm in length. Females are larger and about half a centimeter longer than males, but males have larger toes.
+      The frog has a typical lifespan of five to seven years in the wild. Its bright blue skin, usually darker around its limbs and stomach, serves as a warning to predators. The glands of poisonous alkaloids located in the skin serve as a defense mechanism to potential predators.
+      These poisons paralyze and sometimes kill the predator. The black spots are unique to each frog, enabling individuals to be identified. This species of frog has a distinctive hunch-backed posture.
+      Each foot contains four toes, which each have a flattened tip with a suction cup pad used for gripping. The tips of the toes in females are round, while males have heart-shaped tips. As with almost all frogs, tadpoles differ greatly in appearance from adults. They have a long tail, about 6 mm, with a total length of about 10 mm. They lack legs and have gills instead of lungs.
+  </string>
+
+
+  <string name="phyllobates_aurotaenia_genus">Phyllobates</string>
+  <string name="phyllobates_aurotaenia_scientific_name">Phyllobates Aurotaenia</string>
+  <string name="phyllobates_aurotaenia_description">Phyllobates aurotaenia adults reach a maximum snout-vent length of 32 mm in males and 35 mm in females. This species has a black ground color, with two thin golden, orange, or green dorsolateral stripes extending from the base of the thigh and meeting at the snout (Silverstone 1976; Myers et al. 1978).
+      The dorsal surfaces of the limbs are covered in gold, orange, blue, or green dots, and the ventral surface is black with blue or green dots (Silverstone 1976). Dotting is relatively sparse on the venter and more concentrated on the limbs (Silverstone 1976). The stripes are green or light yellow, and the ventral dots are always blue on individuals from Serranía de Baudó (Silverstone 1976).
+      On individuals from the upper San Juan drainage, the stripes are yellow, light or dark yellow-orange, or light brownish gold (Silverstone 1976). There is a second form; some individuals, from above the Playa de Oro on the upper Rio San Juan, are larger and have broader dorsolateral stripes that are sometimes blended together by an orangish dorsal suffusion into one yellow-orange or red-orange stripe (Silverstone 1976; Myers et al. 1978).
+  </string>
+
+    <string name="phyllobates_bicolor_genus">Phyllobates</string>
+    <string name="phyllobates_bicolor_scientific_name">Phyllobates Bicolor</string>
+    <string name="phyllobates_bicolor_description">P. bicolor is one of the largest poison dart frogs. Males can reach a length of 45–50 mm from snout to vent, while the slightly larger females reach 50–55 mm in length from snout to vent. P bicolor ranges in color from earthy orange to pure yellow in coloration, often with a blue or black tinge on their legs, hence their name.
+        They are smaller and more slender than their close relative, Phyllobates terribilis, and can resemble juvenile or subadult P. terribilis frogs. They also bear a resemblance to D. leucomelas, particularly the "netted" color morph of D. leucomelas.
+    </string>
+
+  <string name="ameerega_macero_genus">Ameerega</string>
+  <string name="ameerega_macero_scientific_name">Ameerega Macero</string>
+  <string name="ameerega_macero_description">The Manú poison frog (Ameerega macero) is a species of frog in the Dendrobatidae family found in southern Peru and Brazil. It can be found in the drainages of the Manú, Urubamba, Altos Purús and Ucayali Rivers. It can also be found in Serra do Divisor National Park and Alto Juruá.Its natural habitats are lowland tropical moist forests and montane forests, in particular bamboo forests, at elevations of 150–1,450 m.
+      It is threatened by habitat loss due to agriculture, and is illegally harvested for the pet trade.
+  </string>
+
+
+  <string name="ameerega_trivittatus_genus">Ameerega</string>
+  <string name="ameerega_trivittatus_scientific_name">Ameerega Trivittatus</string>
+  <string name="ameerega_trivittatus_description">The male three-striped poison frog has a snout-to-vent length of about 42 mm (1.65 in) and the female reaches about 42 mm (1.65 in). It has a slightly protruding snout with no teeth, finely granulated skin on its dorsal surface and smooth skin on its flanks and ventral surface.
+      The digits are unwebbed and the first finger is longer than the second finger. The colouring of this species varies somewhat between locations but in general it has a black back and sides, a black belly suffused blue posteriorly and yellowish-green or light-brown limbs.
+      Two yellowish-green lateral stripes run from the snout to the hind legs.
+  </string>
+
+  <string name="ranitomeya_benedicta_genus">Ranitomeya</string>
+  <string name="ranitomeya_benedicta_scientific_name">Ranitomeya Benedicta</string>
+  <string name="ranitomeya_benedicta_description">Ranitomeya benedicta is a relatively large species of Ranitomeya, with adults up to 20.2 mm in SVL. Adults bear a brilliant red head, a character which is diagnostic of this species. Frogs from near the type locality have a black body with distinct blue reticulation covering the body, limbs, and venter.
+      Frogs from populations farther south typically have blue limbs with diffuse blue coloration on the dorsum and venter. In tadpoles, the oral disc is emarginate. Marginal papillae present on posterior labium and lateral part of anterior labium. Jaw sheaths deep, serrate, lacking indentations.
+      It was only discovered in 2005 and described in 2008.
+  </string>
+
+
+  <string name="allobates_femoralis_genus">Allobates</string>
+  <string name="allobates_femoralis_scientific_name">Allobates Femoralis</string>
+  <string name="allobates_femoralis_description">Allobates femoralis is a small frog, the males growing to 28 to 33 mm (1.1 to 1.3 in) in length and the females being marginally larger. The back is dark brown or black and the limbs dark brown.
+      The throat is black and the belly is white, variously marked with black. A pale brown dorso-lateral stripe runs from the snout to the base of the legs and an intermittent white ventro-lateral line runs from the snout to the arm and onwards to the leg.
+      There is an orange-yellow patch behind the arm and a half-moon shaped orange patch on the outside of the thigh. A. femoralis resembles Lithodytes lineatus in general appearance, but the latter has a dorso-lateral line encircling the back, legs barred with dark and light bands of colour, and two or more orange patches on each thigh.
+  </string>
+
+</resources>

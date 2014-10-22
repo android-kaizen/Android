@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Frogs Scientific Names -->
+  <string-array name="frog_scientific_names">
+    <item>@string/dendrobates_auratus_scientific_name</item>
+    <item>@string/dendrobates_tinctorius_azureus_scientific_name</item>
+    <item>@string/phyllobates_aurotaenia_scientific_name</item>
+    <item>@string/phyllobates_bicolor_scientific_name</item>
+    <item>@string/ameerega_macero_scientific_name</item>
+    <item>@string/ameerega_trivittatus_scientific_name</item>
+    <item>@string/ranitomeya_benedicta_scientific_name</item>
+    <item>@string/allobates_femoralis_scientific_name</item>
+  </string-array>
+
+  <!-- Frogs Genus -->
+  <string-array name="frog_genera">
+    <item>@string/dendrobates_auratus_genus</item>
+    <item>@string/dendrobates_tinctorius_azureus_genus</item>
+    <item>@string/phyllobates_aurotaenia_genus</item>
+    <item>@string/phyllobates_bicolor_genus</item>
+    <item>@string/ameerega_macero_genus</item>
+    <item>@string/ameerega_trivittatus_genus</item>
+    <item>@string/ranitomeya_benedicta_genus</item>
+    <item>@string/allobates_femoralis_genus</item>
+  </string-array>
+
+  <!-- Frogs Descriptions -->
+  <string-array name="frog_descriptions">
+    <item>@string/dendrobates_auratus_description</item>
+    <item>@string/dendrobates_tinctorius_azureus_description</item>
+    <item>@string/phyllobates_aurotaenia_description</item>
+    <item>@string/phyllobates_bicolor_description</item>
+    <item>@string/ameerega_macero_description</item>
+    <item>@string/ameerega_trivittatus_description</item>
+    <item>@string/ranitomeya_benedicta_description</item>
+    <item>@string/allobates_femoralis_description</item>
+  </string-array>
+
+</resources>
