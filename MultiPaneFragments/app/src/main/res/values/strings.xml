@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiPaneFragments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Version Names and Descriptions Strings -->
+    <string name="android_5.0_name" >Android 5.0 Lollipop</string>
+    <string name="android_5.0_description">A sweet new take on Android. Get the smarts of Android on screens big and small – with the right information at the right moment.</string>
+
+    <string name="android_4.4_name" >Android 4.4 KitKat</string>
+    <string name="android_4.4_description">Smart, simple, and truly yours. A more polished design, improved performance, and new features.</string>
+
+    <string name="android_4.1_name" >Android 4.1 Jelly Bean</string>
+    <string name="android_4.1_description">Android is fast and smooth with buttery graphics. With Google Now, you get just the right information at the right time.\n And with more than 1 million apps on Google Play, and thousands of Android devices, you\'ve got the freedom to do what you want on any device you choose.</string>
+
+    <string name="android_4.0_name" >Android 4.0 Ice Cream Sandwich</string>
+    <string name="android_4.0_description">Android comes of age with a new, refined design. Simple, beautiful and beyond smart.</string>
+
+    <string name="android_3.0_name" >Android 3.0 Honeycomb</string>
+    <string name="android_3.0_description">Optimized for tablets, this release opens up new horizons wherever you are.</string>
+
+    <string name="android_2.3_name" >Android 2.3 Gingerbread</string>
+    <string name="android_2.3_description">New sensors make Android great for gaming - so you can touch, tap, tilt, and play away.</string>
+
+    <string name="android_2.2_name" >Android 2.2 Froyo</string>
+    <string name="android_2.2_description">Voice Typing lets you input text, and Voice Actions let you control your phone, just by speaking.</string>
+
+    <string name="android_2.0_name" >Android 2.0 Eclair</string>
+    <string name="android_2.0_description">Make your home screen just how you want it. Arrange apps and widgets across multiple screens and in folders. Stunning live wallpapers respond to your touch.</string>
+
+    <string name="android_1.6_name" >Android 1.6 Donut</string>
+    <string name="android_1.6_description">The world\'s information is at your fingertips – search the web, get driving directions... or just watch cat videos.</string>
+
+
+</resources>

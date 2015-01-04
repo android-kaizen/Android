@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Android Version Names -->
+    <string-array name="version_names">
+        <item>@string/android_5.0_name</item>
+        <item>@string/android_4.4_name</item>
+        <item>@string/android_4.1_name</item>
+        <item>@string/android_4.0_name</item>
+        <item>@string/android_3.0_name</item>
+        <item>@string/android_2.3_name</item>
+        <item>@string/android_2.2_name</item>
+        <item>@string/android_2.0_name</item>
+        <item>@string/android_1.6_name</item>
+    </string-array>
+
+    <!-- Version Descriptions-->
+    <string-array name="version_descriptions">
+        <item>@string/android_5.0_description</item>
+        <item>@string/android_4.4_description</item>
+        <item>@string/android_4.1_description</item>
+        <item>@string/android_4.0_description</item>
+        <item>@string/android_3.0_description</item>
+        <item>@string/android_2.3_description</item>
+        <item>@string/android_2.2_description</item>
+        <item>@string/android_2.0_description</item>
+        <item>@string/android_1.6_description</item>
+    </string-array>
+</resources>
